@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/elisajtodd/static/css/main.a6402691.chunk.css",
-    "main.js": "/elisajtodd/static/js/main.066b5f77.chunk.js",
-    "main.js.map": "/elisajtodd/static/js/main.066b5f77.chunk.js.map",
-    "runtime-main.js": "/elisajtodd/static/js/runtime-main.6a49c6fe.js",
-    "runtime-main.js.map": "/elisajtodd/static/js/runtime-main.6a49c6fe.js.map",
-    "static/js/2.8e3d1591.chunk.js": "/elisajtodd/static/js/2.8e3d1591.chunk.js",
-    "static/js/2.8e3d1591.chunk.js.map": "/elisajtodd/static/js/2.8e3d1591.chunk.js.map",
-    "index.html": "/elisajtodd/index.html",
-    "precache-manifest.1c7af29c462d4a4bbde6d4a8458a7770.js": "/elisajtodd/precache-manifest.1c7af29c462d4a4bbde6d4a8458a7770.js",
-    "service-worker.js": "/elisajtodd/service-worker.js",
-    "static/css/main.a6402691.chunk.css.map": "/elisajtodd/static/css/main.a6402691.chunk.css.map",
-    "static/js/2.8e3d1591.chunk.js.LICENSE.txt": "/elisajtodd/static/js/2.8e3d1591.chunk.js.LICENSE.txt"
+    "main.css": "/elisajtodd/elisajtodd/static/css/main.a6402691.chunk.css",
+    "main.js": "/elisajtodd/elisajtodd/static/js/main.37ba482c.chunk.js",
+    "main.js.map": "/elisajtodd/elisajtodd/static/js/main.37ba482c.chunk.js.map",
+    "runtime-main.js": "/elisajtodd/elisajtodd/static/js/runtime-main.21d73956.js",
+    "runtime-main.js.map": "/elisajtodd/elisajtodd/static/js/runtime-main.21d73956.js.map",
+    "static/js/2.8e3d1591.chunk.js": "/elisajtodd/elisajtodd/static/js/2.8e3d1591.chunk.js",
+    "static/js/2.8e3d1591.chunk.js.map": "/elisajtodd/elisajtodd/static/js/2.8e3d1591.chunk.js.map",
+    "index.html": "/elisajtodd/elisajtodd/index.html",
+    "precache-manifest.17707e740e9c9c96c1025e0eb81b3f86.js": "/elisajtodd/elisajtodd/precache-manifest.17707e740e9c9c96c1025e0eb81b3f86.js",
+    "service-worker.js": "/elisajtodd/elisajtodd/service-worker.js",
+    "static/css/main.a6402691.chunk.css.map": "/elisajtodd/elisajtodd/static/css/main.a6402691.chunk.css.map",
+    "static/js/2.8e3d1591.chunk.js.LICENSE.txt": "/elisajtodd/elisajtodd/static/js/2.8e3d1591.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a49c6fe.js",
+    "static/js/runtime-main.21d73956.js",
     "static/js/2.8e3d1591.chunk.js",
     "static/css/main.a6402691.chunk.css",
-    "static/js/main.066b5f77.chunk.js"
+    "static/js/main.37ba482c.chunk.js"
   ]
 }
